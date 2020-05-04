@@ -4,6 +4,8 @@
 * Created cheat codes can be applied in both SXOS and Atmosphère
 * MAIN/HEAP, Static/Pointer code format supported
 * EZ-edit UTF-8 CSV file supported as Batch Cheats Generator's database
+## Preview
+![image](https://github.com/zzpong/Batch-Cheats-Generator-for-Nintendo-Switch/blob/master/Samples/Sample.png)
 ## Build Instructions
 * Open Batch Cheats Generator.sln
 * Change Debug to Release in the dropdown menu
