@@ -833,8 +833,7 @@ namespace Batch_Cheats_Generator
 
         private void FreeForAll_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            //System.Diagnostics.Process.Start("explorer.exe", "https://github.com/zzpong");
-            System.Diagnostics.Process.Start("explorer.exe", "https://www.91wii.com/thread-187756-1-1.html");      
+            System.Diagnostics.Process.Start("explorer.exe", "https://github.com/zzpong/Batch-Cheats-Generator-for-Nintendo-Switch");   
         }
     }
 }
